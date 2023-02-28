@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="assets\bootstrap\css\bootstrap.min">
 
 	<script src="assets/js/jquery.js"></script>
+	
 	<script src="assets/js/navbar-animation-fix.js"></script>
 	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
 </head>
